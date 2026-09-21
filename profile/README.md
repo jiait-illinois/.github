@@ -1,19 +1,28 @@
-JIAIT GitHub Community Repository
-This public .github repository provides shared documentation for the Joint Innovation in AI Team (JIAIT).
+# JIAIT GitHub Community Repository
+
+This public `.github` repository provides shared documentation for the Joint
+Innovation in AI Team (JIAIT).
 
 It serves as a centralized home for:
 
-project-facing information for repositories that support https://genai.illinois.edu/solutions/
-shared contribution guidance for JIAIT-maintained projects
-documentation that helps the team manage and refine AI coding techniques
-Repository contents
-README.md — overview of the repository and its purpose
-CONTRIB.md — contribution guidance for documentation, repository standards, and AI coding practices
-Intended use
-JIAIT repositories can reference this repository for common guidance that should be publicly visible and easy for contributors to find.
+- project-facing information for repositories that support
+  <https://genai.illinois.edu/solutions/>
+- shared contribution guidance for JIAIT-maintained projects
+- documentation that helps the team manage and refine AI coding techniques
 
-External Sites
-U of I GitHub
-U of I Github Community Portal
-Github "Hello World" Tutorial
-Markdown
+## Repository contents
+
+- [`README.md`](README.md) &mdash; overview of the repository and its purpose
+- [`CONTRIB.md`](CONTRIB.md) &mdash; contribution guidance for documentation,
+  repository standards, and AI coding practices
+
+## Intended use
+
+JIAIT repositories can reference this repository for common guidance that should
+be publicly visible and easy for contributors to find.
+
+## External Sites
+* [U of I GitHub](https://web.uillinois.edu/github)
+* [U of I Github Community Portal](https://uillinois-community.github.io/)
+* [Github "Hello World" Tutorial](https://guides.github.com/activities/hello-world/)
+* [Markdown](https://www.markdowntutorial.com/)
