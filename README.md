@@ -20,3 +20,9 @@ It serves as a centralized home for:
 
 JIAIT repositories can reference this repository for common guidance that should
 be publicly visible and easy for contributors to find.
+
+## External Sites
+* [U of I GitHub](https://web.uillinois.edu/github)
+* [U of I Github Community Portal](https://uillinois-community.github.io/)
+* [Github "Hello World" Tutorial](https://guides.github.com/activities/hello-world/)
+* [Markdown](https://www.markdowntutorial.com/)
